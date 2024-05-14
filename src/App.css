@@ -1,0 +1,8 @@
+h1 {
+  font-weight: 900;
+  transition: all;
+  border-top-left-radius: 10px;
+  font-weight: 300;
+  letter-spacing: 4px;
+  opacity: 1;
+}
